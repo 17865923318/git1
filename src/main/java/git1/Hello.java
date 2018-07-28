@@ -5,7 +5,7 @@ public class Hello {
 	private String name;
 
 	public String getName() {
-		System.out.println("hello very world");
+		System.out.println("hello nice world");
 		return name;
 	}
 
